@@ -1,0 +1,78 @@
+{
+  "temp_0.7": {
+    "0": {
+      "mean_residual_norm": 6.306622018416722,
+      "max_residual_norm": 6.993074893951416,
+      "mean_entropy": 5.538789614041646,
+      "min_entropy": 5.023098945617676
+    },
+    "1": {
+      "mean_residual_norm": 9.071004780133565,
+      "max_residual_norm": 9.6987943649292,
+      "mean_entropy": 4.93834802955389,
+      "min_entropy": 1.3715848922729492
+    },
+    "2": {
+      "mean_residual_norm": 11.957977596918742,
+      "max_residual_norm": 13.197820663452148,
+      "mean_entropy": 3.321080041769892,
+      "min_entropy": 0.04902082681655884
+    },
+    "3": {
+      "mean_residual_norm": 15.261297039190929,
+      "max_residual_norm": 17.501834869384766,
+      "mean_entropy": 1.3974508672370576,
+      "min_entropy": 0.0018390282057225704
+    },
+    "4": {
+      "mean_residual_norm": 20.385218568642934,
+      "max_residual_norm": 23.89375877380371,
+      "mean_entropy": 0.666695062622398,
+      "min_entropy": 1.4053168342798017e-05
+    },
+    "5": {
+      "mean_residual_norm": 30.01990455786387,
+      "max_residual_norm": 34.48708724975586,
+      "mean_entropy": 0.4822971377953858,
+      "min_entropy": 1.3843226565057876e-10
+    }
+  },
+  "temp_1.0": {
+    "0": {
+      "mean_residual_norm": 6.276462105909983,
+      "max_residual_norm": 6.993074893951416,
+      "mean_entropy": 5.546953763564428,
+      "min_entropy": 5.050971984863281
+    },
+    "1": {
+      "mean_residual_norm": 9.021774709224701,
+      "max_residual_norm": 9.893890380859375,
+      "mean_entropy": 5.019467177490394,
+      "min_entropy": 1.392437219619751
+    },
+    "2": {
+      "mean_residual_norm": 11.882804294427237,
+      "max_residual_norm": 13.520885467529297,
+      "mean_entropy": 3.4778744054803004,
+      "min_entropy": 0.047403257340192795
+    },
+    "3": {
+      "mean_residual_norm": 15.144903973738353,
+      "max_residual_norm": 18.032108306884766,
+      "mean_entropy": 1.5991276303805837,
+      "min_entropy": 0.0015825123991817236
+    },
+    "4": {
+      "mean_residual_norm": 20.110410284996032,
+      "max_residual_norm": 24.600374221801758,
+      "mean_entropy": 0.7343042194360199,
+      "min_entropy": 2.2573654860025272e-05
+    },
+    "5": {
+      "mean_residual_norm": 29.518645000457763,
+      "max_residual_norm": 35.05942916870117,
+      "mean_entropy": 0.48648802228390753,
+      "min_entropy": 6.203400015891702e-10
+    }
+  }
+}
